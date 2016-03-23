@@ -1,0 +1,9 @@
+{
+  "name": "tada-habits-frontend",
+  "version": "0.0.0",
+  "description": "Tada Habits",
+  "author": "Tada-Habits-Ovi",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+  }
+}
